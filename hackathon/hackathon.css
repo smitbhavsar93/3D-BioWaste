@@ -1,0 +1,51 @@
+.parallax {
+    /* The image used */
+    background-image: url("background.jpg");
+  
+    /* Set a specific height */
+    min-height: 300px; 
+  
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+  }
+  .parallax_text{
+    display:block;
+    position:absolute;
+  
+  
+    color: white;
+    
+    font-size: 70px;
+
+   padding-left: 400px;  /* use this to center it by padding left  */
+   
+
+  }
+
+  .float-container {
+    border: 3px solid #fff;
+    padding: 30px;
+}
+
+.float-child {
+    width: 50%;
+    float: left;
+    padding-left: 20px;
+    
+}  
+
+::placeholder {
+  color: white;
+  opacity: 1; /* Firefox */
+}
+
+:-ms-input-placeholder { /* Internet Explorer 10-11 */
+ color: white;
+}
+
+::-ms-input-placeholder { /* Microsoft Edge */
+ color: white;
+}
