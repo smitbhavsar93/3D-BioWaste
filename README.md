@@ -6,3 +6,6 @@ For this code to work, simply use any HTML IDE or Notepad, the one I used to mak
 
 ## Sublime Text 3
 This program was coded on Sublime Text 3, to download it, visit : https://www.sublimetext.com/ and download their latest release on your compatible device.
+
+## Presentation
+Check out our slideshow that we presented to judges at the WITM 2021 Hackathon!: https://docs.google.com/presentation/d/1igcAeJnjHPhulHBSmGph5kEtYN-BA5h5BgnWBk4Qf6Q/edit?usp=sharing
